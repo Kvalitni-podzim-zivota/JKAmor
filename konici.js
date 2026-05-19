@@ -10,7 +10,7 @@ const konici = [
     khv_cm: 110,
     obrazek_odkaz: "img/jessinca.jpg",
     desc: "Jessinca má u nás roli společníka pro své čtyřnohé kamarády. Ač je na svůj věk velice vitální, ven chodí už jen v doprovodu Davídka na ruce. Jess je kontaktní poník, ráda se mazlí, ale vzhledem ke špatné minulosti ráda zastrašuje zuby a zadníma nohama.",
-    aktivni: true
+    aktivni: false
   },
   {
     jmeno: "Katheline",
@@ -46,7 +46,7 @@ const konici = [
     khv_cm: 168,
     obrazek_odkaz: "img/cikina.jpg",
     desc: "Čiki je s námi nejkratší dobu. Byla pořízena kvůli svému výjimečnému charakteru, s nadějí, že jednoho dne bude moci sloužit jako další z našich terapeutických koní.",
-    aktivni: true
+    aktivni: false
   },
   {
     jmeno: "David",
