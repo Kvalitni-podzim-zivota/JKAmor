@@ -59,6 +59,42 @@ const konici = [
     obrazek_odkaz: "img/david.jpg",
     desc: "Davídek je asi to nejhodnější zvíře, co jsme kdy kdo poznali. Je silně fixován na společnost dalšího koně, neumí být sám. David má předpoklady být koněm na kontaktní terapii — mazlení a drbání v místě ustájení.",
     aktivni: true
+  },
+  {
+    jmeno: "Pedro",
+    plemeno: null,
+    barva: null,
+    pohlaví: null,
+    původ: null,
+    rok_narozeni: null,
+    khv_cm: null,
+    obrazek_odkaz: null,
+    desc: "",
+    aktivni: true
+  },
+  {
+    jmeno: "Quido",
+    plemeno: null,
+    barva: null,
+    pohlaví: null,
+    původ: null,
+    rok_narozeni: null,
+    khv_cm: null,
+    obrazek_odkaz: null,
+    desc: "",
+    aktivni: true
+  },
+  {
+    jmeno: "Kamba",
+    plemeno: null,
+    barva: null,
+    pohlaví: null,
+    původ: null,
+    rok_narozeni: null,
+    khv_cm: null,
+    obrazek_odkaz: null,
+    desc: "",
+    aktivni: true
   }
 ];
 /* ===== KONEC DAT ===== */
