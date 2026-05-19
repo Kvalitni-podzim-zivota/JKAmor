@@ -91,7 +91,7 @@ function handleForm(e) {
   const j  = document.getElementById('f-jmeno').value;
   const em = document.getElementById('f-email').value;
   const z  = document.getElementById('f-zprava').value;
-  window.location.href = `mailto:klestilova.kpz@email.cz?subject=${encodeURIComponent('Zpráva od ' + j)}&body=${encodeURIComponent('Od: ' + j + '\nEmail: ' + em + '\n\n' + z)}`;
+  window.location.href = `mailto:l.klestilova@kvalitnipodzimzivota.cz?subject=${encodeURIComponent('Zpráva od ' + j)}&body=${encodeURIComponent('Od: ' + j + '\nEmail: ' + em + '\n\n' + z)}`;
 }
 
 window.addEventListener('scroll', () => {
