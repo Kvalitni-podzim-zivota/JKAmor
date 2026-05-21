@@ -134,4 +134,9 @@ window.addEventListener('scroll', () => {
   document.getElementById('scroll-top').classList.toggle('visible', scrollY > 400);
 });
 
+document.getElementById('scroll-top').addEventListener('click', (e) => {
+  e.preventDefault();
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+});
+
 document.addEventListener('DOMContentLoaded', renderKonici);
